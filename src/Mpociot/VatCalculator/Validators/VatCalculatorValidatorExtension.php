@@ -14,12 +14,12 @@ class VatCalculatorValidatorExtension
     /**
      * Usage: vat_number.
      *
-     * @param string $attribute
-     * @param mixed  $value
-     * @param array  $parameters
-     * @param        $validator
-     * @param mixed $value
-     * @param array $parameters
+     * @param string    $attribute
+     * @param mixed     $value
+     * @param array     $parameters
+     * @param           $validator
+     * @param mixed     $value
+     * @param array     $parameters
      * @param Validator $validator
      *
      * @return bool
