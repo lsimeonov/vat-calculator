@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/vat-calculator",
+    "name": "lsimeonov/vat-calculator",
     "description": "EU VAT calculation, the way it should be.",
     "keywords": ["VAT","Tax","EU MOSS", "VAT ID", "tax calculation", "vat calculation", "cashier"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "Ludmil Simeonov",
+            "email": "youseeucs@@gmail.com"
         }
     ],
     "require": {
