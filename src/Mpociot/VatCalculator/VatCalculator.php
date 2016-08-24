@@ -115,7 +115,7 @@ class VatCalculator
 
         try {
             $this->soapClient = new SoapClient(self::VAT_SERVICE_URL);
-        } catch (SoapFault $e) {
+        } catch (\Exception $e) {
             $this->soapClient = false;
         }
     }
